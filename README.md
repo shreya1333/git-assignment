@@ -1,2 +1,2 @@
 # git-assignment
-The first GIT Assignment
+This is the first GIT Assignment
